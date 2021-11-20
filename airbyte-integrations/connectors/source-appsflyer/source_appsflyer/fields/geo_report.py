@@ -43,4 +43,7 @@ main_fields = (
     "pay_premium_pkg_unique_users",
     "pay_premium_pkg_event_counter",
     "pay_premium_pkg_sales",
+    "af_purchase_unique_users",
+    "af_purchase_event_counter",
+    "af_purchase_sales",
 )
