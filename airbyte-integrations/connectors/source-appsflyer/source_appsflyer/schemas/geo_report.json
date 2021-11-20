@@ -118,6 +118,15 @@
     },
     "pay_premium_pkg_sales": {
       "type": ["null", "number"]
+    },
+    "af_purchase_unique_users": {
+      "type": ["null", "number"]
+    },
+    "af_purchase_event_counter": {
+      "type": ["null", "number"]
+    },
+    "af_purchase_sales": {
+      "type": ["null", "number"]
     }
   }
 }
